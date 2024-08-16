@@ -1,0 +1,126 @@
+C:\Users\WuGroup\source\repos\Simulation1107\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\WuGroup\source\repos\Simulation1107\Simulation\bin\Debug\Simulation.exe
+C:\Users\WuGroup\source\repos\Simulation1107\Simulation\bin\Debug\Simulation.pdb
+C:\Users\WuGroup\source\repos\Simulation1107\Simulation\obj\Debug\Simulation.csprojResolveAssemblyReference.cache
+C:\Users\WuGroup\source\repos\Simulation1107\Simulation\obj\Debug\Simulation.SimulationCustomer.resources
+C:\Users\WuGroup\source\repos\Simulation1107\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\WuGroup\source\repos\Simulation1107\Simulation\obj\Debug\Simulation.csproj.GenerateResource.Cache
+C:\Users\WuGroup\source\repos\Simulation1107\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\WuGroup\source\repos\Simulation1107\Simulation\obj\Debug\Simulation.exe
+C:\Users\WuGroup\source\repos\Simulation1107\Simulation\obj\Debug\Simulation.pdb
+C:\Users\WuGroup\source\repos\Simulation1107\Simulation\bin\Debug\MathNet.Numerics.dll
+C:\Users\WuGroup\source\repos\Simulation1107\Simulation\bin\Debug\MathNet.Numerics.xml
+C:\Users\WuGroup\Desktop\Simulation1107\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\WuGroup\Desktop\Simulation1107\Simulation\bin\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\Simulation1107\Simulation\bin\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\Simulation1107\Simulation\bin\Debug\MathNet.Numerics.dll
+C:\Users\WuGroup\Desktop\Simulation1107\Simulation\bin\Debug\MathNet.Numerics.xml
+C:\Users\WuGroup\Desktop\Simulation1107\Simulation\obj\Debug\Simulation.csprojResolveAssemblyReference.cache
+C:\Users\WuGroup\Desktop\Simulation1107\Simulation\obj\Debug\Simulation.SimulationCustomer.resources
+C:\Users\WuGroup\Desktop\Simulation1107\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\WuGroup\Desktop\Simulation1107\Simulation\obj\Debug\Simulation.csproj.GenerateResource.Cache
+C:\Users\WuGroup\Desktop\Simulation1107\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\WuGroup\Desktop\Simulation1107\Simulation\obj\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\Simulation1107\Simulation\obj\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\Simulation1107 - 複製\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\WuGroup\Desktop\Simulation1107 - 複製\Simulation\bin\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\Simulation1107 - 複製\Simulation\bin\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\Simulation1107 - 複製\Simulation\bin\Debug\MathNet.Numerics.dll
+C:\Users\WuGroup\Desktop\Simulation1107 - 複製\Simulation\bin\Debug\MathNet.Numerics.xml
+C:\Users\WuGroup\Desktop\Simulation1107 - 複製\Simulation\obj\Debug\Simulation.csprojResolveAssemblyReference.cache
+C:\Users\WuGroup\Desktop\Simulation1107 - 複製\Simulation\obj\Debug\Simulation.SimulationCustomer.resources
+C:\Users\WuGroup\Desktop\Simulation1107 - 複製\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\WuGroup\Desktop\Simulation1107 - 複製\Simulation\obj\Debug\Simulation.csproj.GenerateResource.Cache
+C:\Users\WuGroup\Desktop\Simulation1107 - 複製\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\WuGroup\Desktop\Simulation1107 - 複製\Simulation\obj\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\Simulation1107 - 複製\Simulation\obj\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\Simulation1107 _NEW\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\WuGroup\Desktop\Simulation1107 _NEW\Simulation\bin\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\Simulation1107 _NEW\Simulation\bin\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\Simulation1107 _NEW\Simulation\bin\Debug\MathNet.Numerics.dll
+C:\Users\WuGroup\Desktop\Simulation1107 _NEW\Simulation\bin\Debug\MathNet.Numerics.xml
+C:\Users\WuGroup\Desktop\Simulation1107 _NEW\Simulation\obj\Debug\Simulation.csprojResolveAssemblyReference.cache
+C:\Users\WuGroup\Desktop\Simulation1107 _NEW\Simulation\obj\Debug\Simulation.SimulationCustomer.resources
+C:\Users\WuGroup\Desktop\Simulation1107 _NEW\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\WuGroup\Desktop\Simulation1107 _NEW\Simulation\obj\Debug\Simulation.csproj.GenerateResource.Cache
+C:\Users\WuGroup\Desktop\Simulation1107 _NEW\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\WuGroup\Desktop\Simulation1107 _NEW\Simulation\obj\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\Simulation1107 _NEW\Simulation\obj\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\RNN_Simulation\Simulation\obj\Debug\Simulation.csprojResolveAssemblyReference.cache
+C:\Users\WuGroup\Desktop\RNN_Simulation\Simulation\obj\Debug\Simulation.SimulationCustomer.resources
+C:\Users\WuGroup\Desktop\RNN_Simulation\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\WuGroup\Desktop\RNN_Simulation\Simulation\obj\Debug\Simulation.csproj.GenerateResource.Cache
+C:\Users\WuGroup\Desktop\RNN_Simulation\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\WuGroup\Desktop\RNN_Simulation\Simulation\obj\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\RNN_Simulation\Simulation\obj\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\RNN_Simulation\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\WuGroup\Desktop\RNN_Simulation\Simulation\bin\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\RNN_Simulation\Simulation\bin\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\RNN_Simulation\Simulation\bin\Debug\MathNet.Numerics.dll
+C:\Users\WuGroup\Desktop\RNN_Simulation\Simulation\bin\Debug\MathNet.Numerics.xml
+C:\Users\WuGroup\Desktop\RNN_Simulation_只有平均值且分佈不變_有無限多張機票\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\WuGroup\Desktop\RNN_Simulation_只有平均值且分佈不變_有無限多張機票\Simulation\bin\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\RNN_Simulation_只有平均值且分佈不變_有無限多張機票\Simulation\bin\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\RNN_Simulation_只有平均值且分佈不變_有無限多張機票\Simulation\bin\Debug\MathNet.Numerics.dll
+C:\Users\WuGroup\Desktop\RNN_Simulation_只有平均值且分佈不變_有無限多張機票\Simulation\bin\Debug\MathNet.Numerics.xml
+C:\Users\WuGroup\Desktop\RNN_Simulation_只有平均值且分佈不變_有無限多張機票\Simulation\obj\Debug\Simulation.csprojResolveAssemblyReference.cache
+C:\Users\WuGroup\Desktop\RNN_Simulation_只有平均值且分佈不變_有無限多張機票\Simulation\obj\Debug\Simulation.SimulationCustomer.resources
+C:\Users\WuGroup\Desktop\RNN_Simulation_只有平均值且分佈不變_有無限多張機票\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\WuGroup\Desktop\RNN_Simulation_只有平均值且分佈不變_有無限多張機票\Simulation\obj\Debug\Simulation.csproj.GenerateResource.Cache
+C:\Users\WuGroup\Desktop\RNN_Simulation_只有平均值且分佈不變_有無限多張機票\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\WuGroup\Desktop\RNN_Simulation_只有平均值且分佈不變_有無限多張機票\Simulation\obj\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\RNN_Simulation_只有平均值且分佈不變_有無限多張機票\Simulation\obj\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\Simulation\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\WuGroup\Desktop\Simulation\Simulation\bin\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\Simulation\Simulation\bin\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\Simulation\Simulation\bin\Debug\MathNet.Numerics.dll
+C:\Users\WuGroup\Desktop\Simulation\Simulation\bin\Debug\MathNet.Numerics.xml
+C:\Users\WuGroup\Desktop\Simulation\Simulation\obj\Debug\Simulation.SimulationCustomer.resources
+C:\Users\WuGroup\Desktop\Simulation\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\WuGroup\Desktop\Simulation\Simulation\obj\Debug\Simulation.csproj.GenerateResource.Cache
+C:\Users\WuGroup\Desktop\Simulation\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\WuGroup\Desktop\Simulation\Simulation\obj\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\Simulation\Simulation\obj\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\Simulation\Simulation\obj\Debug\Simulation.csprojAssemblyReference.cache
+C:\Users\WuGroup\Desktop\Simulation\Simulation\obj\Debug\Simulation.csproj.CopyComplete
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\obj\Debug\Simulation.csprojAssemblyReference.cache
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\obj\Debug\Simulation.SimulationCustomer.resources
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.GenerateResource.cache
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\obj\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\obj\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\bin\Debug\Simulation.exe
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\bin\Debug\Simulation.pdb
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\bin\Debug\MathNet.Numerics.dll
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\bin\Debug\MathNet.Numerics.xml
+C:\Users\WuGroup\Desktop\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.CopyComplete
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\bin\Debug\Simulation.exe
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\bin\Debug\MathNet.Numerics.dll
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\bin\Debug\MathNet.Numerics.xml
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.AssemblyReference.cache
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.SimulationCustomer.resources
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.GenerateResource.cache
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.CopyComplete
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.exe
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.pdb
+C:\Users\Josey\Desktop\coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\bin\Debug\Simulation.pdb
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\bin\Debug\Simulation.exe
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\bin\Debug\Simulation.pdb
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\bin\Debug\MathNet.Numerics.dll
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\bin\Debug\MathNet.Numerics.xml
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.AssemblyReference.cache
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.SimulationCustomer.resources
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.GenerateResource.cache
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.csproj.CopyComplete
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.exe
+C:\Users\Josey\Desktop\交接資料_coding\LSTM顧客購買資料模擬程式\Simulation_mean\Simulation\obj\Debug\Simulation.pdb
