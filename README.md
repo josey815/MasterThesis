@@ -1,6 +1,5 @@
 # MasterThesis
 Topic : Demand parameters estimation and dynamic pricing considering reference prices
-Main languages : Python & C#
 
 Main contribution :
 1. Incorporate reference prices into the field of dynamic pricing, make the market environment much more realistic.
